@@ -25,7 +25,13 @@ var family = ['Tyler', 'Jordyn', 'Ryan', 'Chelsey', 'Ireland'];
 //Create a function named 'looper' that is given family as it's only argument, loops through the given array, and alerts every item in the array.
 
   //Code Here
-
+var family = ['Tyler', 'Jordyn', 'Ryan', 'Chelsey', 'Ireland'];
+ var looper = function (arr) {
+   for (var i = 0; i < arr.length; i++) {
+     var element = arr[i];
+     
+   }
+ }
 
 //Next problem
 
